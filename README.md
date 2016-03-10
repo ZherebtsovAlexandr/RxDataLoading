@@ -92,7 +92,7 @@ Observable<Model> result = Observable.merge(localData, remoteData);
 ###2.2.1 Description
 
 • need to loading `List <T>`
-• new pagination
+• pagination
 
 
 ###2.2.2 Example
